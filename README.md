@@ -72,102 +72,110 @@ FUTURE_DS_01/
 
 # <img width="1311" height="737" alt="dashboard" src="https://github.com/user-attachments/assets/67797266-2cdc-483b-8e41-f31af5f5f32b" />
 
+# 📈 Dashboard KPIs
 
+| KPI              | Value  |
+|------------------|--------|
+| 💰 Total Revenue | 10.30M |
+| 🛒 Total Orders  | 19K    |
+| 👥 Total Customers | 4K   |
+| 📦 Products Sold |  6M    |
 
-📈 Dashboard KPIs
-KPI	Value
-💰 Total Revenue	10.30M
-🛒 Total Orders	19K
-👥 Total Customers	4K
-📦 Products Sold	6M
+---
 
+# 📊 Dashboard Features
 
-📊 Dashboard Features
-🔹 Revenue Over Time
-Consistent growth from 2009–2011
+### 🔹 Revenue Over Time
+- Consistent growth from 2009–2011  
+- Seasonal peaks in Q4 (holiday shopping)  
+- Revenue dips in Q1 (Jan–Feb)  
 
-Seasonal peaks in Q4 (holiday shopping)
+### 🔹 Revenue by Country
+- UK dominates with 8.2M+ revenue  
+- Germany & France are secondary markets  
 
-Revenue dips in Q1 (Jan–Feb)
+### 🔹 Customers by Country
+- UK contributes 90%+ of customer base  
+- Highest repeat purchasing in UK  
 
-🔹 Revenue by Country
-UK dominates with 8.5M+ revenue
+### 🔹 Products Sold
+- WORLD WAR items: 54K+ units  
+- JUMBO BAG series: 30K+ units  
+- Affordable products (£1–£3) drive bulk sales  
 
-Germany & France are secondary markets
+---
 
-🔹 Customers by Country
-UK contributes 90%+ of customer base
+# 💡 Business Recommendations
 
-Highest repeat purchasing in UK
+- ✅ Run Q4 holiday campaigns aggressively  
+- ✅ Stock WORLD WAR & JUMBO BAG before November  
+- ✅ Expand marketing to Germany & France  
+- ✅ Introduce bundle offers on top products  
+- ✅ Launch loyalty program for UK customers  
+- ✅ Optimize pricing for £1–£3 range products  
 
-🔹 Products Sold
-WORLD WAR items: 54K+ units
+---
 
-JUMBO BAG series: 30K+ units
+# 🧹 Data Cleaning & Transformation
 
-Affordable products (£1–£3) drive bulk sales
+- Removed duplicate records  
+- Filtered cancelled invoices (prefix "C")  
+- Removed null Customer IDs  
+- Filtered negative quantities  
+- Converted Invoice Date to proper format  
+- Removed zero/negative unit prices  
 
-💡 Business Recommendations
-✅ Run Q4 holiday campaigns aggressively
-✅ Stock WORLD WAR & JUMBO BAG before November
-✅ Expand marketing to Germany & France
-✅ Introduce bundle offers on top products
-✅ Launch loyalty program for UK customers
-✅ Optimize pricing for £1–£3 range products
+---
 
-🧹 Data Cleaning & Transformation
-Removed duplicate records
+# 📚 Skills Gained
 
-Filtered cancelled invoices (prefix "C")
+- ✅ Business Analytics  
+- ✅ KPI Analysis  
+- ✅ Dashboard Development  
+- ✅ Data Cleaning  
+- ✅ Power BI Visualization  
+- ✅ Insight Generation  
+- ✅ Data Transformation  
+- ✅ Business Reporting  
 
-Removed null Customer IDs
+---
 
-Filtered negative quantities
+# 🚀 Project Outcome
 
-Converted Invoice Date to proper format
+- ✔ Delivered a professional interactive dashboard  
+- ✔ Generated actionable insights for business growth  
+- ✔ Supported data-driven decision-making  
+- ✔ Portfolio-ready project for internship evaluation  
 
-Removed zero/negative unit prices
+---
 
-📚 Skills Gained
-✅ Business Analytics
-✅ KPI Analysis
-✅ Dashboard Development
-✅ Data Cleaning
-✅ Power BI Visualization
-✅ Insight Generation
-✅ Data Transformation
-✅ Business Reporting
+# ⚠️ Challenges Faced
 
-🚀 Project Outcome
-✔ Delivered a professional interactive dashboard
-✔ Generated actionable insights for business growth
-✔ Supported data-driven decision-making
-✔ Portfolio-ready project for internship evaluation
+- Handling inconsistent data  
+- Managing large datasets  
+- Designing effective visualizations  
+- Balancing dashboard aesthetics with clarity  
 
-⚠️ Challenges Faced
-Handling inconsistent data
+---
 
-Managing large datasets
+# 📌 Future Improvements
 
-Designing effective visualizations
+- Predictive sales forecasting  
+- Customer segmentation analysis  
+- AI-based recommendation systems  
+- Real-time dashboard integration  
 
-Balancing dashboard aesthetics with clarity
+---
 
-📌 Future Improvements
-Predictive sales forecasting
+# 👨‍💻 Author
 
-Customer segmentation analysis
-
-AI-based recommendation systems
-
-Real-time dashboard integration
-
-👨‍💻 Author
-Ankit
+**Ankit**  
 🎓 B.Tech in Artificial Intelligence
-🏫 Delhi Skill and Entrepreneurship University (DSEU)
-🏫 Student,
+🏫 Delhi Skill and Entrepreneurship University (DSEU)  
 
-⭐ Acknowledgement
-This project was completed as part of the Future Interns – Data Science & Analytics Internship Program.
-Special thanks to mentors and peers for guidance and support.
+---
+
+# ⭐ Acknowledgement
+
+This project was completed as part of the **Future Interns – Data Science & Analytics Internship Program**.  
+Special thanks to  Future Interns for providing practical industry-oriented learning opportunities.

@@ -160,7 +160,6 @@ The dashboard provides a complete overview of sales performance through interact
 **Ankit**  
 
 🎓 B.Tech in Artificial Intelligence 
-
 🏫 Delhi Skill and Entrepreneurship University (DSEU)  
 
 ---

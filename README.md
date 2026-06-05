@@ -53,7 +53,25 @@ The dashboard provides a complete overview of sales performance through interact
 
 # 📂 Repository Structure
 
-<img width="196" height="260" alt="WhatsApp Image 2026-06-06 at 1 09 56 AM" src="https://github.com/user-attachments/assets/20a2f10e-41ce-4f2d-a421-05e5a0eaa601" />
+```bash
+FUTURE_DS_01/
+│
+├── dashboard/
+│   ├── task-1.pbix
+│   └── dashboard.png
+│
+├── dataset/
+│   └── data.xlsx
+│
+├── insights/
+│   └── key_insights.md
+│
+└── README.md
+```
+
+---
+
+
 
 📷 Dashboard Preview
 🖥️ E-Commerce Sales Performance Dashboard
@@ -159,7 +177,7 @@ The dashboard provides a complete overview of sales performance through interact
 
 **Ankit**  
 
-🎓 B.Tech in Artificial Intelligence 
+🎓 B.Tech in Artificial Intelligence
 🏫 Delhi Skill and Entrepreneurship University (DSEU)  
 
 ---

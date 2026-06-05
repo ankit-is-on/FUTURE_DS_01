@@ -158,7 +158,9 @@ The dashboard provides a complete overview of sales performance through interact
 # 👨‍💻 Author
 
 **Ankit**  
-🎓 B.Tech in Artificial Intelligence
+
+🎓 B.Tech in Artificial Intelligence 
+
 🏫 Delhi Skill and Entrepreneurship University (DSEU)  
 
 ---
@@ -166,4 +168,5 @@ The dashboard provides a complete overview of sales performance through interact
 # ⭐ Acknowledgement
 
 This project was completed as part of the **Future Interns – Data Science & Analytics Internship Program**.  
+
 Special thanks to  Future Interns for providing practical industry-oriented learning opportunities.

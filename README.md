@@ -178,6 +178,7 @@ FUTURE_DS_01/
 **Ankit**  
 
 🎓 B.Tech in Artificial Intelligence
+
 🏫 Delhi Skill and Entrepreneurship University (DSEU)  
 
 ---
